@@ -34,7 +34,7 @@ const getResponseFromWorkfront = async() => {
              console.log(error.config);*/
         });
     /*headers: {
-            apiKey: 'nw61r7b79n3f5jivh31042ei43dnnu4b'
+            apiKey: ''
         }
     });*/
     console.log(resp);

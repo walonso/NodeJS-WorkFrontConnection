@@ -6,7 +6,7 @@ const getResponseFromWorkfront = async() => {
     //let key = 'key';
     //let encodeUrl = encodeURI(direccion);
 
-    axios.defaults.headers.common['apiKey'] = 'nw61r7b79n3f5jivh31042ei43dnnu4b';
+    axios.defaults.headers.common['apiKey'] = '';
     axios.defaults.headers.common['Content-Type'] = 'application/json;charset=UTF-16';
 
     //axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded';
